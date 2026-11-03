@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cardiac-total-peripheral-resistance-tpri-skill",
+  "version": "1.0.0",
+  "description": "Calculates Systemic Vascular Resistance (SVR), Total Peripheral Resistance Index (TPRI), and Mean Arterial Pressure to evaluate autonomic afterload and vascular compliance.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "cardiovascular",
+    "hemodynamics",
+    "blood-pressure",
+    "svr",
+    "tpri",
+    "afterload",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
